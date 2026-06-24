@@ -12,3 +12,13 @@ __MACOSX/
 
 # Unpacked working dirs
 _unpacked/
+
+# Agent / development tracking (local only)
+.claude/
+CLAUDE.md
+latestProgress.md
+solutionDocumentation.md
+solutionLearnings.md
+*.agent
+.cursor/
+.vscode/
