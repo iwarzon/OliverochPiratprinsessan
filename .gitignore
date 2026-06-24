@@ -1,24 +1,3 @@
-# OS files
 Thumbs.db
 .DS_Store
 Desktop.ini
-
-# Temp / editor
-*.tmp
-*.bak
-*~
-._*
-__MACOSX/
-
-# Unpacked working dirs
-_unpacked/
-
-# Agent / development tracking (local only)
-.claude/
-CLAUDE.md
-latestProgress.md
-solutionDocumentation.md
-solutionLearnings.md
-*.agent
-.cursor/
-.vscode/
