@@ -1,0 +1,14 @@
+# OS files
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Temp / editor
+*.tmp
+*.bak
+*~
+._*
+__MACOSX/
+
+# Unpacked working dirs
+_unpacked/
